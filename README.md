@@ -24,7 +24,6 @@ In order to execute the testcases:
 > Tests: 6 passed, 6 total  
 > Snapshots: 0 total  
 > Time: 0.78 s, estimated 1 s  
-> Ran all test suites.  
-> =========================================
+> Ran all test suites.
 
 Video of the running app: https://youtu.be/EQchDOmYID0
