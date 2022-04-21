@@ -10,7 +10,7 @@ In order to execute the testcases:
 (2) From terminal do: npm run test
 (3) You should see an output similar to the following:
 
-> personality@1.0.0 test  
+> personality@1.0.0 test <br/>
 > jest
 
 > PASS js/getquestion.test.js  
