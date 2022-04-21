@@ -4,6 +4,8 @@ The app is developed in pure javascript, CSS and HTML5 - No frameworks.
 
 Try it out here: https://effiongcharles.github.io/personalitytest/
 
+Video of the running app: https://youtu.be/EQchDOmYID0
+
 Unit testing for some key functions is done using JEST framework.
 
 In order to execute the testcases:
@@ -27,5 +29,3 @@ In order to execute the testcases:
 > Snapshots: 0 total  
 > Time: 0.78 s, estimated 1 s  
 > Ran all test suites.
-
-Video of the running app: https://youtu.be/EQchDOmYID0
