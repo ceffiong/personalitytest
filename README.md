@@ -19,7 +19,6 @@ In order to execute the testcases:
 > PASS js/getquestionobj.test.js  
 > PASS js/getanswer.test.js  
 > PASS js/randindexes.test.js
-
 > Test Suites: 6 passed, 6 total  
 > Tests: 6 passed, 6 total  
 > Snapshots: 0 total  
