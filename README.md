@@ -6,8 +6,8 @@ Unit testing for some key functions is done using JEST framework.
 
 In order to execute the testcases:
 
-(1) Ensure you have npm and jest installed
-(2) From terminal do: npm run test
+(1) Ensure you have npm and jest installed  
+(2) From terminal do: npm run test  
 (3) You should see an output similar to the following:
 
 > personality@1.0.0 test  
