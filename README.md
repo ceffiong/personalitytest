@@ -10,7 +10,7 @@ In order to execute the testcases:
 (2) From terminal do: npm run test
 (3) You should see an output similar to the following:
 
-> personality@1.0.0 test <br/>
+> personality@1.0.0 test  
 > jest
 
 > PASS js/getquestion.test.js  
@@ -18,7 +18,8 @@ In order to execute the testcases:
 > PASS js/getanswercat.test.js  
 > PASS js/getquestionobj.test.js  
 > PASS js/getanswer.test.js  
-> PASS js/randindexes.test.js  
+> PASS js/randindexes.test.js
+
 > Test Suites: 6 passed, 6 total  
 > Tests: 6 passed, 6 total  
 > Snapshots: 0 total  
