@@ -2,7 +2,7 @@ This repo contains source codes for a personality test web app.
 
 The app is developed in pure javascript, CSS and HTML5 - No frameworks.
 
-Try it out here: https://effiongcharles.github.io/personalitytest/
+Try it out here: https://ceffiong.github.io/personalitytest/
 
 Video of the running app: https://youtu.be/EQchDOmYID0
 
